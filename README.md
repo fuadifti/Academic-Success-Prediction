@@ -1,4 +1,4 @@
-# 🎓 Academic Success Prediction Using Machine Learning and Neural Networks
+#  Academic Success Prediction Using Machine Learning and Neural Networks
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ The project aims to help educational institutions identify students who are at r
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 ```
 .
@@ -23,7 +23,7 @@ The project aims to help educational institutions identify students who are at r
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python
 * Jupyter Notebook
@@ -35,7 +35,7 @@ The project aims to help educational institutions identify students who are at r
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset consists of **4,424 student records** with **24 input features**. It is a multiclass classification problem where the target variable contains three classes:
 
@@ -53,7 +53,7 @@ The dataset was preprocessed by:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following models were implemented and compared:
 
@@ -64,7 +64,7 @@ The following models were implemented and compared:
 
 ---
 
-## 📈 Results
+## Results
 
 | Model          | Accuracy |
 | -------------- | -------- |
@@ -77,7 +77,7 @@ Among all the models, **Random Forest** achieved the best performance with the h
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository.
 
@@ -101,20 +101,20 @@ jupyter notebook CSE422_project.ipynb
 
 ---
 
-## 📄 Project Report
+##  Project Report
 
 A detailed explanation of the project, preprocessing steps, model implementation, and performance evaluation is available in the accompanying PDF report.
 
 ---
 
-## 👨‍💻 Authors
+##  Authors
 
 * **Moutasim Fuad Ifti**
 * **Sagar Sarker**
 
 ---
 
-## 📚 Course Information
+##  Course Information
 
 **Course:** CSE422 – Artificial Intelligence
 
@@ -122,7 +122,7 @@ A detailed explanation of the project, preprocessing steps, model implementation
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 This project was completed as part of the Artificial Intelligence coursework to explore and compare different Machine Learning and Neural Network models for student academic success prediction.
 
